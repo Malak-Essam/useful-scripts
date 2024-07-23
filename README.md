@@ -3,10 +3,10 @@ useful python scripts
 
 the first script is to rename subtitles to the video name
 this script renames the subtitles of any series, making it match the name of its video 
-benefits:
+## benefits:
  * subtitle that has the same name as its video automatically loaded when playing the video
  * the script can be loaded from any location in your pc
-how to use it efficiently:
+## how to use it efficiently:
  * download the script
  * create file and name it run_vidsubrename.bat or anyname.bat
  * edit the file and type python "path of the downloaded script"
