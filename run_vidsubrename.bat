@@ -1,0 +1,1 @@
+python "G:\MY STUDY\codes & datasets\useful-scripts\vidsubrename.py"
